@@ -1,0 +1,19 @@
+git hub 
+
+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
+
+echo "# py230812" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Layna-hj/py230812.git
+git push -u origin main
+
+$ git remote add origin https://github.com/Layna-hj/py230812.git
+
+$ git add .
+$ git commit -m "[init] py230812"
+
+$ git remote -v
+$ git  push origin master
